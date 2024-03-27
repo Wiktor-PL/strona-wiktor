@@ -1,3 +1,13 @@
 *{
-    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #7b7d70
+}
+nav{
+    display: flex;
+    margin: auto;
+    background-color: #8c1e29;
 }
