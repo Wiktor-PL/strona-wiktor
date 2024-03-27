@@ -10,4 +10,11 @@ nav{
     display: flex;
     margin: auto;
     background-color: #8c1e29;
+    justify-content: space-between;
+    padding: 0.3rem;
+    }
+.linki{
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
